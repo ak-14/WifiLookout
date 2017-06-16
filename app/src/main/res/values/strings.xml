@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WifiLookout</string>
+    <string name="main_switch">Wifi Monitor</string>
+    <string name="config_file">config</string>
+    <string name="saved_ssid_locations">saved_ssid_locations</string>
+</resources>
